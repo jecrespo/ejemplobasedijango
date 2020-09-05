@@ -48,8 +48,8 @@ INSTALLED_APPS = [
     'restexample',
     'mongodbapp',
     'rest_framework',
-#    'rest_framework.authtoken', # nuevo para auth
-#    'rest_auth', # nuevo para auth
+    'rest_framework.authtoken', # nuevo para auth
+    'rest_auth', # nuevo para auth
     'manytomany'
 ]
 """
