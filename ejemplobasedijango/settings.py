@@ -38,18 +38,25 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'generic_scaffold',
-    'libros',
+    #'generic_scaffold',
+    #'libros',
     'home',
-    'bootstrap4',
+    #'bootstrap4',
     'biblioteca',
-    'django_tables2',
+    #'django_tables2',
     #'restexample.apps.SnippetsConfig'
     'restexample',
+<<<<<<< HEAD
     'mongodbapp',
     'rest_framework',
     'rest_framework.authtoken', # nuevo para auth
     'rest_auth', # nuevo para auth
+=======
+    #'mongodbapp',
+    #'rest_framework',
+#    'rest_framework.authtoken', # nuevo para auth
+#    'rest_auth', # nuevo para auth
+>>>>>>> d1274e48d65b7378d130ba6ed7b0ca45172a52b2
     'manytomany'
 ]
 """
